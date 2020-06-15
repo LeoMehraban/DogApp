@@ -1,0 +1,16 @@
+{
+  "name": "desktop-application",
+  "version": "1.0.0",
+  "description": "A Dog App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Leo Mehraban",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^9.0.4",
+    "electron-packager": "^14.2.1",
+    "express": "^4.17.1"
+  }
+}
