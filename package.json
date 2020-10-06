@@ -9,7 +9,7 @@
   "author": "Leo Mehraban",
   "license": "MIT",
   "dependencies": {
-    "electron": "^9.0.4",
+    "electron": "^9.3.0",
     "electron-packager": "^14.2.1",
     "express": "^4.17.1"
   }
